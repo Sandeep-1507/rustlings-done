@@ -1,0 +1,13 @@
+/home/roronoa/Documents/rustlings/target/debug/deps/libnet2-79aa7069b0f803be.rmeta: /home/roronoa/.cargo/registry/src/index.crates.io-6f17d22bba15001f/net2-0.2.38/src/lib.rs /home/roronoa/.cargo/registry/src/index.crates.io-6f17d22bba15001f/net2-0.2.38/src/tcp.rs /home/roronoa/.cargo/registry/src/index.crates.io-6f17d22bba15001f/net2-0.2.38/src/udp.rs /home/roronoa/.cargo/registry/src/index.crates.io-6f17d22bba15001f/net2-0.2.38/src/socket.rs /home/roronoa/.cargo/registry/src/index.crates.io-6f17d22bba15001f/net2-0.2.38/src/ext.rs /home/roronoa/.cargo/registry/src/index.crates.io-6f17d22bba15001f/net2-0.2.38/src/utils.rs /home/roronoa/.cargo/registry/src/index.crates.io-6f17d22bba15001f/net2-0.2.38/src/sys/unix/mod.rs /home/roronoa/.cargo/registry/src/index.crates.io-6f17d22bba15001f/net2-0.2.38/src/sys/unix/impls.rs /home/roronoa/.cargo/registry/src/index.crates.io-6f17d22bba15001f/net2-0.2.38/src/unix.rs
+
+/home/roronoa/Documents/rustlings/target/debug/deps/net2-79aa7069b0f803be.d: /home/roronoa/.cargo/registry/src/index.crates.io-6f17d22bba15001f/net2-0.2.38/src/lib.rs /home/roronoa/.cargo/registry/src/index.crates.io-6f17d22bba15001f/net2-0.2.38/src/tcp.rs /home/roronoa/.cargo/registry/src/index.crates.io-6f17d22bba15001f/net2-0.2.38/src/udp.rs /home/roronoa/.cargo/registry/src/index.crates.io-6f17d22bba15001f/net2-0.2.38/src/socket.rs /home/roronoa/.cargo/registry/src/index.crates.io-6f17d22bba15001f/net2-0.2.38/src/ext.rs /home/roronoa/.cargo/registry/src/index.crates.io-6f17d22bba15001f/net2-0.2.38/src/utils.rs /home/roronoa/.cargo/registry/src/index.crates.io-6f17d22bba15001f/net2-0.2.38/src/sys/unix/mod.rs /home/roronoa/.cargo/registry/src/index.crates.io-6f17d22bba15001f/net2-0.2.38/src/sys/unix/impls.rs /home/roronoa/.cargo/registry/src/index.crates.io-6f17d22bba15001f/net2-0.2.38/src/unix.rs
+
+/home/roronoa/.cargo/registry/src/index.crates.io-6f17d22bba15001f/net2-0.2.38/src/lib.rs:
+/home/roronoa/.cargo/registry/src/index.crates.io-6f17d22bba15001f/net2-0.2.38/src/tcp.rs:
+/home/roronoa/.cargo/registry/src/index.crates.io-6f17d22bba15001f/net2-0.2.38/src/udp.rs:
+/home/roronoa/.cargo/registry/src/index.crates.io-6f17d22bba15001f/net2-0.2.38/src/socket.rs:
+/home/roronoa/.cargo/registry/src/index.crates.io-6f17d22bba15001f/net2-0.2.38/src/ext.rs:
+/home/roronoa/.cargo/registry/src/index.crates.io-6f17d22bba15001f/net2-0.2.38/src/utils.rs:
+/home/roronoa/.cargo/registry/src/index.crates.io-6f17d22bba15001f/net2-0.2.38/src/sys/unix/mod.rs:
+/home/roronoa/.cargo/registry/src/index.crates.io-6f17d22bba15001f/net2-0.2.38/src/sys/unix/impls.rs:
+/home/roronoa/.cargo/registry/src/index.crates.io-6f17d22bba15001f/net2-0.2.38/src/unix.rs:

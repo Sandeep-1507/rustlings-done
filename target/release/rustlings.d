@@ -1,0 +1,1 @@
+/home/roronoa/Documents/rustlings/target/release/rustlings: /home/roronoa/Documents/rustlings/src/exercise.rs /home/roronoa/Documents/rustlings/src/main.rs /home/roronoa/Documents/rustlings/src/project.rs /home/roronoa/Documents/rustlings/src/run.rs /home/roronoa/Documents/rustlings/src/ui.rs /home/roronoa/Documents/rustlings/src/verify.rs

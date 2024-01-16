@@ -1,0 +1,1 @@
+{"rustc":17118256870214054982,"features":"[\"dfa-search\"]","target":5453405124896219811,"profile":14473208297124147686,"path":9666846676527606728,"deps":[],"local":[{"CheckDepInfo":{"dep_info":"debug/.fingerprint/regex-automata-80387bf985663415/dep-lib-regex-automata"}}],"rustflags":[],"metadata":8878122455581797878,"config":2202906307356721367,"compile_kind":0}

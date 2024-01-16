@@ -1,0 +1,11 @@
+/home/roronoa/Documents/rustlings/target/debug/deps/assert_cmd-215308e9a226059b.rmeta: /home/roronoa/.cargo/registry/src/index.crates.io-6f17d22bba15001f/assert_cmd-2.0.12/src/lib.rs /home/roronoa/.cargo/registry/src/index.crates.io-6f17d22bba15001f/assert_cmd-2.0.12/src/assert.rs /home/roronoa/.cargo/registry/src/index.crates.io-6f17d22bba15001f/assert_cmd-2.0.12/src/cargo.rs /home/roronoa/.cargo/registry/src/index.crates.io-6f17d22bba15001f/assert_cmd-2.0.12/src/cmd.rs /home/roronoa/.cargo/registry/src/index.crates.io-6f17d22bba15001f/assert_cmd-2.0.12/src/output.rs /home/roronoa/.cargo/registry/src/index.crates.io-6f17d22bba15001f/assert_cmd-2.0.12/src/color.rs /home/roronoa/.cargo/registry/src/index.crates.io-6f17d22bba15001f/assert_cmd-2.0.12/src/../README.md
+
+/home/roronoa/Documents/rustlings/target/debug/deps/assert_cmd-215308e9a226059b.d: /home/roronoa/.cargo/registry/src/index.crates.io-6f17d22bba15001f/assert_cmd-2.0.12/src/lib.rs /home/roronoa/.cargo/registry/src/index.crates.io-6f17d22bba15001f/assert_cmd-2.0.12/src/assert.rs /home/roronoa/.cargo/registry/src/index.crates.io-6f17d22bba15001f/assert_cmd-2.0.12/src/cargo.rs /home/roronoa/.cargo/registry/src/index.crates.io-6f17d22bba15001f/assert_cmd-2.0.12/src/cmd.rs /home/roronoa/.cargo/registry/src/index.crates.io-6f17d22bba15001f/assert_cmd-2.0.12/src/output.rs /home/roronoa/.cargo/registry/src/index.crates.io-6f17d22bba15001f/assert_cmd-2.0.12/src/color.rs /home/roronoa/.cargo/registry/src/index.crates.io-6f17d22bba15001f/assert_cmd-2.0.12/src/../README.md
+
+/home/roronoa/.cargo/registry/src/index.crates.io-6f17d22bba15001f/assert_cmd-2.0.12/src/lib.rs:
+/home/roronoa/.cargo/registry/src/index.crates.io-6f17d22bba15001f/assert_cmd-2.0.12/src/assert.rs:
+/home/roronoa/.cargo/registry/src/index.crates.io-6f17d22bba15001f/assert_cmd-2.0.12/src/cargo.rs:
+/home/roronoa/.cargo/registry/src/index.crates.io-6f17d22bba15001f/assert_cmd-2.0.12/src/cmd.rs:
+/home/roronoa/.cargo/registry/src/index.crates.io-6f17d22bba15001f/assert_cmd-2.0.12/src/output.rs:
+/home/roronoa/.cargo/registry/src/index.crates.io-6f17d22bba15001f/assert_cmd-2.0.12/src/color.rs:
+/home/roronoa/.cargo/registry/src/index.crates.io-6f17d22bba15001f/assert_cmd-2.0.12/src/../README.md:
